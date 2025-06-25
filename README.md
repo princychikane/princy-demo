@@ -1,3 +1,3 @@
 # princy-demo
 my first git repository 
-author - princy chikane
+author - princy chikane 
